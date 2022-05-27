@@ -79,7 +79,7 @@ Proyecto sobre aprendizaje automático con Python
 			
 > Introducción a los sistemas de recomendación. Tipos de recomendadores: simple, basados en contenido, filtrado colaborativo. Ejemplos demonstrativos de cada reomendador. Ventajas y desventajas de cada recomendador. Evaluando el sistema de recomendación.	Aplicaciones de los sistemas de recomendación a diferentes bancos de datos.	
 
-18. Modelos de aprendizaje interados en aplicaciones web: cuaderno 39
+18. Modelos de aprendizaje integrados en aplicaciones web: cuaderno 39
 
 > Introducción. Características de la web a tener en cuenta. Generación de nuestro modelo de ML. Integración de la solución en una aplicación web (librerías Flask y Pickle).	
 					
