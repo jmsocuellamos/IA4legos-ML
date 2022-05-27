@@ -6,25 +6,26 @@ Proyecto sobre aprendizaje automático con Python
 
 1. Introducción a los algoritmos de aprendizaje automático: cuaderno01
 
-> Contenidos: ¿Qué es el prendizaje automático? Aplicaciones. Tareas del aprendizaje automático. Etapas y escenarios de aprendizaje (Supervisado y no supervisado). Descripción de modelos de aprendizaje (Regresion, clasificación, reducción de la dimensión y agrupación).	
+> ¿Qué es el prendizaje automático? Aplicaciones. Tareas del aprendizaje automático. Etapas y escenarios de aprendizaje (Supervisado y no supervisado). Descripción de modelos de aprendizaje (Regresion, clasificación, reducción de la dimensión y agrupación).	
 
 2. Scikit-learn: cuaderno02, cuaderno03, cuaderno04
 
-> Contenidos: Introducción a Scikil-learn. Módulos para problemas de Machine Learning. Preparación de los datos en un problema de ML: preprocesado (separación de muestras), estandarización, normalización, codificación, tratamiento de valores pérdidos, y generación de tendencias polinómicas. Selección del modelo (medidas de error y búsqueda de los hyperparámetros del modelo). Pipelines.		
+> Introducción a Scikil-learn. Módulos para problemas de Machine Learning. Preparación de los datos en un problema de ML: preprocesado (separación de muestras), estandarización, normalización, codificación, tratamiento de valores pérdidos, y generación de tendencias polinómicas. Selección del modelo (medidas de error y búsqueda de los hyperparámetros del modelo). Pipelines.		
 
 ## PARTE 2: APRENDIZAJE SUPERVISADO					
 
-Introducción a los modelos de aprendizaje automático supervisado		1	Modelos de regresión, modelos de clasificación y modelos de regresión y clasificación. Bancos de datos de trabajo.		
-Modelos Lineales de regresión para outputs numéricos (RLS, RLM, ANCOVA)		4			
-			Formulación del modelo. Preprocesado de los datos y análisis exploratorio inicial.	1	
-			Ajuste del modelo. Evaluación del modelo y predicción.	1	
-			Extensiones de los modelos de regresión: modelos polinomicos y suavizados. Regularización del modelo: Ridge regression (regularización L2), y Lasso regression (regularización L1). 	1	
-			Casos prácticos	1	
-Modelos Lineales de regresión para outputs categóricos (regresión logística y multinomial)		4			
-			Formulación del modelo para variables clasificadoras dicotómicas. Preprocesado de los datos y análisis exploratorio inicial.	1	
-			Ajuste del modelo. Evaluación del modelo y predicción.  Matriz de confusión y curvas ROC.	1	
-			Modelo para variables clasificadoras politómicas. Mapa de clasificación. Modelo General.	1	
-			Casos prácticos	1	
+3. Introducción a los modelos de aprendizaje automático supervisado: cuaderno05
+
+> Modelos de regresión, modelos de clasificación y modelos de regresión y clasificación. Bancos de datos de trabajo.		
+
+4. Modelos Lineales de regresión para outputs numéricos (RLS, RLM, ANCOVA): cuaderno06, cuaderno07, cuaderno08, cuaderno09
+					
+> Formulación del modelo. Preprocesado de los datos y análisis exploratorio inicial. Ajuste del modelo. Evaluación del modelo y predicción. Extensiones de los modelos de regresión: modelos polinomicos y suavizados. Regularización del modelo: Ridge regression (regularización L2), y Lasso regression (regularización L1). Casos prácticos.
+
+5. Modelos Lineales de regresión para outputs categóricos (regresión logística y multinomial): cuaderno10, cuaderno11, cuaderno12, cuaderno13
+				
+> Formulación del modelo para variables clasificadoras dicotómicas. Preprocesado de los datos y análisis exploratorio inicial. Ajuste del modelo. Evaluación del modelo y predicción.  Matriz de confusión y curvas ROC. Modelo para variables clasificadoras politómicas. Mapa de clasificación. Modelo General. Casos prácticos
+	
 Modelo de clasificación: NAIVE BAYES		2			
 			¿Qué son? ¿Cómo trabajan? ¿Cuando debemos usarlos y cuando no? Clasificadores Bayes para dos grupos	1	
 			Clasificadores Bayes para múltiples grupos.	1	
