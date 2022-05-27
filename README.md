@@ -6,11 +6,11 @@ Proyecto sobre aprendizaje automático con Python
 
 1. Introducción a los algoritmos de aprendizaje automático: cuaderno01
 
-Contenidos: ¿Qué es el prendizaje automático? Aplicaciones. Tareas del aprendizaje automático. Etapas y escenarios de aprendizaje (Supervisado y no supervisado). Descripción de modelos de aprendizaje (Regresion, clasificación, reducción de la dimensión y agrupación).	
+> Contenidos: ¿Qué es el prendizaje automático? Aplicaciones. Tareas del aprendizaje automático. Etapas y escenarios de aprendizaje (Supervisado y no supervisado). Descripción de modelos de aprendizaje (Regresion, clasificación, reducción de la dimensión y agrupación).	
 
 2. Scikit-learn: cuaderno02, cuaderno03, cuaderno04
 
-Contenidos: Introducción a Scikil-learn. Módulos para problemas de Machine Learning. Preparación de los datos en un problema de ML: preprocesado (separación de muestras), estandarización, normalización, codificación, tratamiento de valores pérdidos, y generación de tendencias polinómicas. Selección del modelo (medidas de error y búsqueda de los hyperparámetros del modelo). Pipelines.		
+> Contenidos: Introducción a Scikil-learn. Módulos para problemas de Machine Learning. Preparación de los datos en un problema de ML: preprocesado (separación de muestras), estandarización, normalización, codificación, tratamiento de valores pérdidos, y generación de tendencias polinómicas. Selección del modelo (medidas de error y búsqueda de los hyperparámetros del modelo). Pipelines.		
 
 ## PARTE 2: APRENDIZAJE SUPERVISADO					
 
