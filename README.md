@@ -4,7 +4,7 @@ Proyecto sobre aprendizaje automático con Python
 
 ## PARTE 1: INTRODUCCIÓN AL APRENDIZAJE AUTOMÁTICO		
 
-1. Introducción a los algoritmos de aprendizaje automático: cuaderno01
+1. Introducción a los algoritmos de aprendizaje automático: [jupyter notebook](https://)
 
 > ¿Qué es el prendizaje automático? Aplicaciones. Tareas del aprendizaje automático. Etapas y escenarios de aprendizaje (Supervisado y no supervisado). Descripción de modelos de aprendizaje (Regresion, clasificación, reducción de la dimensión y agrupación).	
 
