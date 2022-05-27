@@ -24,22 +24,24 @@ Proyecto sobre aprendizaje automático con Python
 
 5. Modelos Lineales de regresión para outputs categóricos (regresión logística y multinomial): cuaderno10, cuaderno11, cuaderno12, cuaderno13
 				
-> Formulación del modelo para variables clasificadoras dicotómicas. Preprocesado de los datos y análisis exploratorio inicial. Ajuste del modelo. Evaluación del modelo y predicción.  Matriz de confusión y curvas ROC. Modelo para variables clasificadoras politómicas. Mapa de clasificación. Modelo General. Casos prácticos
+> Formulación del modelo para variables clasificadoras dicotómicas. Preprocesado de los datos y análisis exploratorio inicial. Ajuste del modelo. Evaluación del modelo y predicción.  Matriz de confusión y curvas ROC. Modelo para variables clasificadoras politómicas. Mapa de clasificación. Modelo General. Casos prácticos.
 	
-Modelo de clasificación: NAIVE BAYES		2			
-			¿Qué son? ¿Cómo trabajan? ¿Cuando debemos usarlos y cuando no? Clasificadores Bayes para dos grupos	1	
-			Clasificadores Bayes para múltiples grupos.	1	
-Modelo de clasificación: K-VECINO MÁS CERCANO		2			
-			¿Qué son? ¿Cómo trabajan? ¿Cuando debemos usarlos y cuando no? Algoritmos en KNN. Nuestra primera clasificación con KNN	1	
-			KNN en aplicaciones prácticas	1	
-Modelo de clasificación y regresión: SUPPORT VECTOR MACHINE		2			
-			¿Qué son? ¿Cómo trabajan? ¿Cuando debemos usarlos y cuando no? Preprocesado de los datos y clasificador lineal. Evaluación de la clasificación.	1	
-			Clasificadores no lineales.	1	
-			SVM para regresión	1	
-Modelo de clasificación y regresión: DECISION TREE		3			
-			Marco teórico de los árdoles de decisión ¿Cuando debemos usarlos y cuando no? Construcción del árbol de decisión. Nuestro primer árbol de decisión para: a) problemas de clasificación,  b) problemas de regresión. 	1	
-			Árboles de decisión para problemas de clasificación.	1	
-			Árboles de decisión para problemas de regresión.	1	
+6. Modelo de clasificación NAIVE BAYES: cuaderno14, cuaderno15
+		
+> ¿Qué son? ¿Cómo trabajan? ¿Cuando debemos usarlos y cuando no? Clasificadores Bayes para dos grupos.	Clasificadores Bayes para múltiples grupos.
+	
+7. Modelo de clasificación K-VECINO MÁS CERCANO: cuaderno16, cuaderno17
+	
+> ¿Qué son? ¿Cómo trabajan? ¿Cuando debemos usarlos y cuando no? Algoritmos en KNN. Nuestra primera clasificación con KNN. KNN en aplicaciones prácticas.
+	
+8. Modelo de clasificación y regresión  SUPPORT VECTOR MACHINE: cuaderno18, cuaderno19, cuaderno20
+		
+> ¿Qué son? ¿Cómo trabajan? ¿Cuando debemos usarlos y cuando no? Preprocesado de los datos y clasificador lineal. Evaluación de la clasificación. Clasificadores no lineales. SVM para regresión.
+	
+9. Modelo de clasificación y regresión DECISION TREE: cuaderno21, cuaderno22, cuaderno23
+	
+> Marco teórico de los árdoles de decisión ¿Cuando debemos usarlos y cuando no? Construcción del árbol de decisión. Nuestro primer árbol de decisión para: a) problemas de clasificación,  b) problemas de regresión. Árboles de decisión para problemas de clasificación. Árboles de decisión para problemas de regresión.
+
 Modelo de clasificación y regresión: RANDOM FOREST		3			
 			Marco teórico de los bosques aleatorios. Tipos de clasificadores y ejemplos. ¿Cuando debemos usarlos y cuando no? Construcción del árbol de decisión. Nuestro primer árbol de decisión para: a) problemas de clasificación, b) problemas de regresión	1	
 			Bosques aleatorios en problemas de clasificación	1	
